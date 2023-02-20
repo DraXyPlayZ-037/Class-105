@@ -1,0 +1,43 @@
+#he1 {
+    font: 600;
+    font-family: monospace;
+    color: rgb(140, 255, 142);
+    background-image: url("abstract-banner-design-template-black-glossy-with-gold-line-and-lighting-effect-on-dark-background-and-texture-vector.jpg");
+    padding: 8px;
+}
+
+#ep1 {
+    font: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(135, 199, 255);
+}
+
+body {
+    background-image: url("camera-1130731__480.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dio {
+    font: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#camera {
+    width: 250;
+    height: 230;
+    border: 4px dashed navy;
+    border-radius: 13px;
+}
+
+#result {
+    width: 250;
+    height: 230;
+    border: 4px dashed rgb(104, 104, 184);
+    border-radius: 13px;
+}
